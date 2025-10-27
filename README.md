@@ -9,24 +9,6 @@ A machine learning system that recommends optimal crops for farmers based on soi
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Dataset](#dataset)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Performance](#model-performance)
-- [Results & Insights](#results--insights)
-- [Project Structure](#project-structure)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
-
 ## 🎯 Overview
 
 This project addresses the challenge of optimal crop selection in agriculture by leveraging machine learning to analyze environmental factors and recommend the best crops for specific conditions.
